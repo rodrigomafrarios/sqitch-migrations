@@ -1,0 +1,48 @@
+version: '3'
+
+services:
+  database-migration-deploy:
+    build:
+      context: ./.docker
+    tty: true
+    env_file:
+      - ./.docker/env/tests.env
+    entrypoint: dockerize -wait tcp://database:3306 -timeout 40s sh ./entrypoint.sh
+    volumes:
+      - ~/.gitconfig:/home/user/.gitconfig
+      - ./.docker/app:/var/www/app
+    depends_on:
+      - database
+    networks:
+      - migration_network
+  database-migration-revert:
+    build:
+      context: ./.docker
+    tty: true
+    env_file:
+      - ./.docker/env/tests.env
+    entrypoint: dockerize -wait tcp://database:3306 -timeout 40s sh ./revert-entrypoint.sh
+    volumes:
+      - ~/.gitconfig:/home/user/.gitconfig
+      - ./.docker/app:/var/www/app
+    depends_on:
+      - database
+    networks:
+      - migration_network
+  database:
+    image: mysql:5.7
+    command: --innodb-use-native-aio=0
+    restart: always
+    ports:
+      - 3306:3306
+    volumes:
+      - ./.docker/dbdata:/var/lib/mysql
+      - ./.docker/mysql:/docker-entrypoint-initdb.d
+    environment:
+      MYSQL_DATABASE: schema
+      MYSQL_ROOT_PASSWORD: example
+    networks:
+      - migration_network
+networks:
+  migration_network:
+    driver: bridge

@@ -1,0 +1,275 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="7aeb31ff-1b9a-4507-bf3b-c26dadadaa35" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="staging" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1bY2eTWhnvtQTtDOLChQUmzALxl" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\rodri\beedoo-migrations" />
+      <recent name="D:\beedoo-migrations" />
+      <recent name="D:\beedoo-migrations\.docker\dev\revert" />
+      <recent name="D:\beedoo-migrations\.docker\prod" />
+      <recent name="D:\beedoo-migrations\.docker\sandbox" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\rodri\beedoo-migrations" />
+      <recent name="C:\Users\rodri\beedoo-migrations\.docker\env" />
+      <recent name="C:\Users\rodri\beedoo-migrations\.docker\app\revert" />
+      <recent name="C:\Users\rodri\beedoo-migrations\.docker\app\deploy" />
+      <recent name="C:\Users\rodri\beedoo-migrations\.docker\app" />
+    </key>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7aeb31ff-1b9a-4507-bf3b-c26dadadaa35" name="Default Changelist" comment="" />
+      <created>1588794801983</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1588794801983</updated>
+      <workItem from="1588794803160" duration="1103000" />
+      <workItem from="1588816387283" duration="14000" />
+      <workItem from="1589143909755" duration="1869000" />
+      <workItem from="1589201260727" duration="5000" />
+      <workItem from="1589206247159" duration="1305000" />
+      <workItem from="1589221854749" duration="5000" />
+      <workItem from="1589453438842" duration="4590000" />
+      <workItem from="1589545770185" duration="6000" />
+      <workItem from="1589742693221" duration="27906000" />
+      <workItem from="1589887837892" duration="14097000" />
+      <workItem from="1589980398003" duration="8737000" />
+      <workItem from="1590056114885" duration="29315000" />
+      <workItem from="1590140083477" duration="233000" />
+      <workItem from="1590431918586" duration="1281000" />
+      <workItem from="1590492518739" duration="12000" />
+      <workItem from="1590521350375" duration="597000" />
+      <workItem from="1590534022428" duration="5477000" />
+      <workItem from="1590572255125" duration="9723000" />
+      <workItem from="1590760256393" duration="1586000" />
+      <workItem from="1590762048747" duration="7269000" />
+      <workItem from="1591274503396" duration="12000" />
+      <workItem from="1591274586578" duration="6775000" />
+      <workItem from="1591353823309" duration="1011000" />
+    </task>
+    <task id="LOCAL-00001" summary="#4376 - montando ambiente local">
+      <created>1589745642541</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1589745642541</updated>
+    </task>
+    <task id="LOCAL-00002" summary="#4376 - montando ambiente local">
+      <created>1589752074095</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1589752074095</updated>
+    </task>
+    <task id="LOCAL-00003" summary="#4376 - montando ambiente local">
+      <created>1589754583647</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1589754583647</updated>
+    </task>
+    <task id="LOCAL-00004" summary="#4376 - montando ambiente dev">
+      <created>1589756747126</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1589756747126</updated>
+    </task>
+    <task id="LOCAL-00005" summary="#4376 - montando ambiente dev local">
+      <created>1589805486125</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1589805486125</updated>
+    </task>
+    <task id="LOCAL-00006" summary="#4376 - unificando Dockerfile e criando arquivos env">
+      <created>1589891500800</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1589891500800</updated>
+    </task>
+    <task id="LOCAL-00007" summary="#4376 - criando e revertendo ambiente local">
+      <created>1589920409158</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1589920409158</updated>
+    </task>
+    <task id="LOCAL-00008" summary="#4376 - criando e revertendo ambiente local com múltiplos cards">
+      <created>1589986743832</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1589986743832</updated>
+    </task>
+    <task id="LOCAL-00009" summary="#4376 - commit parcial: criando workflow e doc.">
+      <created>1590011701752</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1590011701752</updated>
+    </task>
+    <task id="LOCAL-00010" summary="#4376 - commit parcial: criando workflow e doc.">
+      <created>1590058110261</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1590058110261</updated>
+    </task>
+    <task id="LOCAL-00011" summary="#4376 - commit parcial: criando workflow e doc.">
+      <created>1590140134145</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1590140134145</updated>
+    </task>
+    <task id="LOCAL-00012" summary="#4376 - commit parcial: criando workflow e doc.">
+      <created>1590760442891</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1590760442891</updated>
+    </task>
+    <task id="LOCAL-00013" summary="#4376 - commit parcial: criando workflow e doc.">
+      <created>1591276855804</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1591276855804</updated>
+    </task>
+    <task id="LOCAL-00014" summary="#4376 - limpando sqitch.plan">
+      <created>1591295113716</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1591295113716</updated>
+    </task>
+    <task id="LOCAL-00015" summary="sqitch migrations">
+      <created>1591354372969</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1591354372969</updated>
+    </task>
+    <task id="LOCAL-00016" summary="sqitch migrations">
+      <created>1591354436355</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1591354436355</updated>
+    </task>
+    <task id="LOCAL-00017" summary="sqitch migrations">
+      <created>1591354726584</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1591354726584</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="UnknownFeatures">
+    <option featureType="com.intellij.fileTypeFactory" implementationName="*.plan" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="#4376 - montando ambiente local" />
+    <MESSAGE value="#4376 - montando ambiente dev" />
+    <MESSAGE value="#4376 - montando ambiente dev local" />
+    <MESSAGE value="#4376 - unificando Dockerfile e criando arquivos env" />
+    <MESSAGE value="#4376 - criando e revertendo ambiente local" />
+    <MESSAGE value="#4376 - criando e revertendo ambiente local com múltiplos cards" />
+    <MESSAGE value="#4376 - commit parcial: criando workflow e doc." />
+    <MESSAGE value="#4376 - limpando sqitch.plan" />
+    <MESSAGE value="sqitch migrations" />
+    <option name="LAST_COMMIT_MESSAGE" value="sqitch migrations" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="3172" y="258" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1590574373851">
+      <screen x="2560" y="0" width="1536" height="832" />
+    </state>
+    <state x="1020" y="322" key="#com.intellij.fileTypes.FileTypeChooser/2560.0.1536.832/0.0.2560.1040@0.0.2560.1040" timestamp="1589802427905" />
+    <state x="3172" y="258" key="#com.intellij.fileTypes.FileTypeChooser/2560.0.1536.832/0.0.2560.1040@2560.0.1536.832" timestamp="1590574373851" />
+    <state x="3103" y="0" key="CommitChangelistDialog2" timestamp="1591354725972">
+      <screen x="2560" y="0" width="1536" height="832" />
+    </state>
+    <state x="905" y="86" key="CommitChangelistDialog2/0.0.2560.1040@0.0.2560.1040" timestamp="1590028503994" />
+    <state x="905" y="86" key="CommitChangelistDialog2/2560.0.1536.832/0.0.2560.1040@0.0.2560.1040" timestamp="1591295113204" />
+    <state x="3103" y="0" key="CommitChangelistDialog2/2560.0.1536.832/0.0.2560.1040@2560.0.1536.832" timestamp="1591354725972" />
+    <state x="92" y="92" width="2376" height="856" key="DiffContextDialog" timestamp="1590060068337">
+      <screen x="0" y="0" width="2560" height="1040" />
+    </state>
+    <state x="92" y="92" width="2376" height="856" key="DiffContextDialog/0.0.2560.1040@0.0.2560.1040" timestamp="1589744082471" />
+    <state x="92" y="92" width="2376" height="856" key="DiffContextDialog/2560.0.1536.832/0.0.2560.1040@0.0.2560.1040" timestamp="1590060068337" />
+    <state x="3109" y="167" key="FileChooserDialogImpl" timestamp="1590140315483">
+      <screen x="2560" y="0" width="1536" height="832" />
+    </state>
+    <state x="3109" y="167" key="FileChooserDialogImpl/2560.0.1536.832/0.0.2560.1040@2560.0.1536.832" timestamp="1590140315483" />
+    <state x="3083" y="192" key="Vcs.Push.Dialog.v2" timestamp="1591354728385">
+      <screen x="2560" y="0" width="1536" height="832" />
+    </state>
+    <state x="872" y="240" key="Vcs.Push.Dialog.v2/2560.0.1536.832/0.0.2560.1040@0.0.2560.1040" timestamp="1591295115734" />
+    <state x="3083" y="192" key="Vcs.Push.Dialog.v2/2560.0.1536.832/0.0.2560.1040@2560.0.1536.832" timestamp="1591354728385" />
+    <state x="3138" y="326" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1589986625110">
+      <screen x="2560" y="0" width="1536" height="832" />
+    </state>
+    <state x="3138" y="326" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/2560.0.1536.832/0.0.2560.1040@2560.0.1536.832" timestamp="1589986625110" />
+    <state x="3152" y="202" width="549" height="534" key="find.popup" timestamp="1591354082309">
+      <screen x="2560" y="0" width="1536" height="832" />
+    </state>
+    <state x="987" y="253" width="585" height="534" key="find.popup/2560.0.1536.832/0.0.2560.1040@0.0.2560.1040" timestamp="1589144508520" />
+    <state x="3152" y="202" width="549" height="534" key="find.popup/2560.0.1536.832/0.0.2560.1040@2560.0.1536.832" timestamp="1591354082309" />
+    <state x="3110" y="125" key="git4idea.branch.GitSmartOperationDialog" timestamp="1591354166966">
+      <screen x="2560" y="0" width="1536" height="832" />
+    </state>
+    <state x="917" y="156" key="git4idea.branch.GitSmartOperationDialog/0.0.2560.1040@0.0.2560.1040" timestamp="1589744374931" />
+    <state x="3110" y="125" key="git4idea.branch.GitSmartOperationDialog/2560.0.1536.832/0.0.2560.1040@2560.0.1536.832" timestamp="1591354166966" />
+    <state x="677" y="251" key="git4idea.merge.GitPullDialog" timestamp="1589144816874">
+      <screen x="0" y="0" width="2560" height="1040" />
+    </state>
+    <state x="677" y="251" key="git4idea.merge.GitPullDialog/2560.0.1536.832/0.0.2560.1040@0.0.2560.1040" timestamp="1589144816874" />
+    <state x="2966" y="201" key="git4idea.merge.GitPullDialog/2560.0.1536.832/0.0.2560.1040@2560.0.1536.832" timestamp="1588794935301" />
+    <state x="943" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1590089688390">
+      <screen x="0" y="0" width="2560" height="1040" />
+    </state>
+    <state x="943" y="225" width="672" height="678" key="search.everywhere.popup/2560.0.1536.832/0.0.2560.1040@0.0.2560.1040" timestamp="1590089688390" />
+    <state x="3126" y="180" width="404" height="543" key="search.everywhere.popup/2560.0.1536.832/0.0.2560.1040@2560.0.1536.832" timestamp="1589462276275" />
+  </component>
+</project>
